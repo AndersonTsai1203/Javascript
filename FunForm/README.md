@@ -73,7 +73,7 @@ Please note: features are listed in order of how we describe them, NOT in the or
 
 ## 2. Constraints & Assumptions
 
-You need to write Javascript (typically a combination of event listeners and DOM manipulations) that listen for actions described in `2.1.2` and render the page described in `2.1.3` in conjunction with any constraints described in `2.1.1`.
+You need to write Javascript (typically a combination of event listeners and DOM manipulations) that listen for actions described in `1.1.2` and render the page described in `1.1.3` in conjunction with any constraints described in `1.1.1`.
 
 ### 2.1. Browser Compatibility
 
